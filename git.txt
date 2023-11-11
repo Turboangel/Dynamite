@@ -1,3 +1,4 @@
+                                                      MAKE SURE YOU READ!!!
 Hey there guys! By the time you see this I believe you are already inclined to as per what git is all about, this is just to brush things up(steps).
 Now let's  head to the steps involved in connecting our version system control
 1. Open your commnd prompt, git bash or whichever you use.
