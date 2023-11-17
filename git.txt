@@ -1,0 +1,18 @@
+                                                      MAKE SURE YOU READ!!!
+Hey there guys! By the time you see this I believe you are already inclined to as per what git is all about, this is just to brush things up(steps).
+Now let's  head to the steps involved in connecting our version system control
+1. Open your commnd prompt, git bash or whichever you use.
+2. Make sure it is connected to your github account.
+3. If you are trying to connect to a certain project, go to your github account and click on the project
+4. When you are in the project, click on code and get the https link
+5. when you have gotten the link go to your command prompt and write "git clone (paste the link you copied beside)"
+6. Click enter
+7. It will clone automatically, then after that change your working directory to the repository using the "cd" command 
+8. You can now create your own files
+9. After creating our own files and making changes, you can then add it to the staging directory using the "git add ." command
+10. After that you commit to the local repository using the "git commit -m" command , you can also write a string of words beside the command to indicate what you commited
+11. Then after a successful commitment, you can then push it to the remote repository, using the "git push" command.
+
+note: Others will do the same and get similar results although they will only need to pull to see changes
+
+                            By Shaaban.
